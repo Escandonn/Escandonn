@@ -1,5 +1,5 @@
 <h1 align="center">Alejandro Escandon</h1>
-<h3 align="center">Ingeniero de Sistemas en Formación | Backend Developer | Python & Java</h3>
+<h3 align="center">Full Stack Engineer | Backend Specialist | Python • Java • Systems Engineering</h3>
 
 <p align="center">
   <a href="mailto:escandonalejandro16@gmail.com">
@@ -15,93 +15,100 @@
 
 ---
 
-## 🧑‍💻 Perfil Profesional
+## 🧑‍💻 Professional Profile
 
-Estudiante de Ingeniería de Sistemas en la Unidad Central del Valle del Cauca (UCEVA), con enfoque en desarrollo backend, automatización de procesos y soluciones basadas en software. 
+Systems Engineering student at Unidad Central del Valle del Cauca (UCEVA), with a strong focus on **Full Stack Development, Backend Engineering, and Scalable Systems Design**.
 
-Experiencia en desarrollo con Python y Java, implementación de algoritmos, scraping web y configuración de redes. Interesado en el diseño de sistemas escalables, inteligencia artificial aplicada y optimización de procesos mediante software.
-
----
-
-## 🎓 Formación Académica
-
-**Ingeniería de Sistemas**  
-Unidad Central del Valle del Cauca (UCEVA)  
-📍 Colombia  
-📅 En curso (7mo semestre)
+Experienced in building end-to-end solutions, from frontend interfaces to backend architectures, databases, automation, and deployment.
 
 ---
 
-## 🧠 Áreas de Interés
+## 🎓 Education
 
-- Desarrollo Backend
-- Automatización y Web Scraping
-- Inteligencia Artificial
-- Redes y Protocolos (Cisco, Routing)
-- Optimización de Algoritmos
-- Arquitectura de Software
+**Systems Engineering**  
+Unidad Central del Valle del Cauca (UCEVA) – Colombia  
+*7th Semester (In Progress)*
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🧠 Core Expertise
 
-### Lenguajes de Programación
-- Python
-- Java
-- JavaScript
-- C / C++
+- Full Stack Development
+- Backend Architecture & APIs
+- Web Scraping & Automation
+- Artificial Intelligence & Data Processing
+- Network Engineering (Cisco)
+- Algorithm Design & Optimization
 
-### Desarrollo Web
-- HTML5
-- CSS3
-- React (básico-intermedio)
+---
 
-### Frameworks y Tecnologías
-- Django
-- Selenium
-- FastAPI
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React.js
+- Responsive Design
+
+### 🧠 Backend
+- Python (Django, FastAPI)
+- Java (Spring Boot - fundamentos)
+- REST APIs
+- Microservices Architecture
+
+### 🗄️ Databases
 - MySQL
+- PostgreSQL
+- SQLite
 
-### Herramientas
+### 🤖 Automation & AI
+- Selenium
+- Web Scraping (Google Maps, Data Extraction)
+- Machine Learning (fundamentos)
+- Data Processing (Python)
+
+### ☁️ DevOps & Tools
 - Git & GitHub
 - Linux / Windows
-- Google Sheets (automatización)
-- Markdown / LaTeX
+- Docker (básico)
+- CI/CD (conceptos)
 
-### Redes y Sistemas
-- Configuración de routers Cisco
-- Protocolos de enrutamiento (RIP, OSPF, BGP)
-- Segmentación de redes (VLANs)
-
----
-
-## 🚀 Experiencia y Proyectos
-
-- 🔹 Desarrollo de scrapers con Selenium para extracción de datos de Google Maps (leads comerciales)
-- 🔹 Implementación de algoritmos de grafos (Dijkstra en DAG)
-- 🔹 Configuración de redes empresariales con múltiples VLANs y routers
-- 🔹 Desarrollo de microservicios con FastAPI
-- 🔹 Proyectos de clasificación de imágenes con modelos de IA
+### 🌐 Networking
+- Cisco (Routing & Switching)
+- VLANs
+- RIP, OSPF, BGP
+- Network Design
 
 ---
 
-## 📈 Fortalezas
+## 🚀 Projects
 
-- Resolución de problemas complejos
-- Pensamiento lógico y algorítmico
-- Aprendizaje autónomo continuo
-- Adaptabilidad tecnológica
+- 🔹 Lead generation system using Google Maps scraping (Python + Selenium)
+- 🔹 Backend microservices with FastAPI
+- 🔹 Network infrastructure design with VLAN segmentation
+- 🔹 Graph algorithms implementation (Dijkstra, optimization)
+- 🔹 AI-based image classification experiments
 
 ---
 
-## 📫 Contacto
+## 📊 Engineering Strengths
 
-- 📧 Email: escandonalejandro16@gmail.com  
+- Scalable system thinking
+- Problem-solving mindset
+- Clean and maintainable code
+- Rapid learning and adaptation
+- Strong analytical skills
+
+---
+
+## 📫 Contact
+
+- 📧 escandonalejandro16@gmail.com  
 - 💻 GitHub: https://github.com/Escandonn  
-- 🔗 LinkedIn: https://www.linkedin.com/in/alejandro-escandon-escobar/  
+- 🔗 LinkedIn: https://www.linkedin.com/in/alejandro-escandon-escobar/
 
 ---
 
 <p align="center">
-  <i>"Transformando problemas reales en soluciones tecnológicas eficientes"</i>
+  <i>"Building scalable solutions through code, data, and systems engineering"</i>
 </p>
