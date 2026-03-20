@@ -27,7 +27,7 @@ Experienced in building end-to-end solutions, from frontend interfaces to backen
 
 **Systems Engineering**  
 Unidad Central del Valle del Cauca (UCEVA) – Colombia  
-*7th Semester (In Progress)*
+
 
 ---
 
